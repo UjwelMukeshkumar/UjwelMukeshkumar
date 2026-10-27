@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Ujwel Mukesh Kumar
+# Hi there  I'm Ujwel Mukesh Kumar
 
-💻 Software Engineer | Flutter Developer  
-📍 Thrissur, Kerala, India
+ Software Engineer | Flutter Developer  
+ Thrissur, Kerala, India
 
 I'm a Flutter developer with 2+ years of experience building scalable mobile applications and backend-integrated solutions. I enjoy creating clean, high-performance apps and solving real-world problems using modern software engineering practices.
 
-## 🚀 Currently Working On
+ Currently Working On
 
 - Building scalable Flutter applications
 - Real-time features using WebSockets
@@ -13,7 +13,7 @@ I'm a Flutter developer with 2+ years of experience building scalable mobile app
 - Backend integrations with REST APIs
 - Learning Data Structures & Algorithms
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 **Languages**
 - Dart
@@ -44,26 +44,26 @@ I'm a Flutter developer with 2+ years of experience building scalable mobile app
 - Xcode
 - Postman
 
-## 📱 Featured Projects
+ Featured Projects
 
-### 🛒 TingTing
+###  TingTing
 A quick-commerce platform for customers, merchants, and delivery partners featuring real-time order tracking, push notifications, and scalable architecture.
 
 **Tech:** Flutter, GetX, WebSockets, Firebase, MongoDB, GCP
 
-### 🔮 GEMFinder
+###  GEMFinder
 A computation-based astrology application with offline support and complex planetary calculations.
 
 **Tech:** Flutter, BLoC, SQLite, REST APIs, Firebase
 
-## 📫 Reach Me
+##  Reach Me
 
-📧 Email: **ujwelmukeshkumar0@gmail.com**
+ Email: **ujwelmukeshkumar0@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/ujwel-mukeshkumar**
+ LinkedIn: **https://linkedin.com/in/ujwel-mukeshkumar**
 
-🐙 GitHub: **https://github.com/UjwelMukeshkumar**
+ GitHub: **https://github.com/UjwelMukeshkumar**
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
+ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
